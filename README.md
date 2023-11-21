@@ -5,4 +5,4 @@ This is my new repository.
 Shanker joshi.
 
 # student 
-practice do by shanker joshi.
+practice do by shanker joshi. sonu joshi.
